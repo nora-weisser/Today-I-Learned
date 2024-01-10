@@ -1,6 +1,6 @@
 ### Extract Meta Tags and Assert using Playwright
 
-1. Find meta tags on the page by visiting `View Page Sourse` or by navigatig to the Elements tab in Developer Tools in Chrome. 
+1. Find meta tags on the page by visiting `View Page Sourse` or by navigatig to the `Elements` tab in `Developer Tools` in Chrome browser. 
 
 2. Extract meta tags using Playwright and assert:
 
